@@ -17,7 +17,6 @@ public class FindTriplets {
 
     System.out.println("Unique triplets that sum up to " + targetSum + ":");
     for (int i = 0; i < array.length - 2; i++) {
-      // Skip duplicate elements
       if (i > 0 && array[i] == array[i - 1]) {
         continue;
       }
@@ -32,7 +31,6 @@ public class FindTriplets {
           left++;
           right--;
 
-          // Skip duplicate elements
           while (left < right && array[left] == array[left - 1]) {
             left++;
           }
