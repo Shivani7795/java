@@ -1,8 +1,8 @@
 public class Hanger{
-	String size;
+	double size;
 	String material;
 	String shape;
-	String weight;
+	double weight;
 
 
 	Hanger(){

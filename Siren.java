@@ -2,7 +2,7 @@ public class Siren{
 	String loudness;
 	String type;
 	String brand;
-	String price;
+	double price;
 
 
 	Siren(){

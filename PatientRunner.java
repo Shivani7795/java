@@ -9,7 +9,7 @@ public class PatientRunner{
 	System.out.println("the default type of the patient is:" + patient.type);
 
 	patient.name = "Vidya";
-    patient.age = "25";
+    patient.age = 25;
     patient.gender = "female";
     patient.type = "fever";
     System.out.println("the updated name of the patient is:" + patient.name);

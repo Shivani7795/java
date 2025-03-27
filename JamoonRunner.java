@@ -8,7 +8,7 @@ public class JamoonRunner{
 	System.out.println("the default flavour of the jamoon is:" + jamoon.flavour);
 	System.out.println("the default colour of the jamoon is:" + jamoon.colour);
 
-	jamoon.size = "2 cm";
+	jamoon.size = 2;
     jamoon.type = "kala jamun";
     jamoon.flavour = "rose";
     jamoon.colour = "dark brown";

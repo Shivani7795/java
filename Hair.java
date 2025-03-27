@@ -1,6 +1,6 @@
 public class Hair{
 	String length;
-	String thickness;
+	double thickness;
 	String texture;
 	String colour;
 

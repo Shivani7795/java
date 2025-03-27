@@ -11,7 +11,7 @@ public class SirenRunner{
 	siren.loudness = "100 decibels";
     siren.type = "security siren";
     siren.brand = "Autonics";
-    siren.price = "500";
+    siren.price = 500;
     System.out.println("the updated loudness of the siren is:" + siren.loudness);
 	System.out.println("the updated type of the siren is:" + siren.type);
 	System.out.println("the updated brand of the siren is:" + siren.brand);

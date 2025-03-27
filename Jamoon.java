@@ -1,5 +1,5 @@
 public class Jamoon{
-	String size;
+	double size;
 	String type;
 	String flavour;
 	String colour;

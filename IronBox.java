@@ -2,7 +2,7 @@ public class IronBox{
 	String length;
 	String type;
 	String weight;
-	String price;
+	double price;
 
 
 	IronBox(){

@@ -1,6 +1,6 @@
 public class Patient{
 	String name;
-	String age;
+	int age;
 	String gender;
 	String type;
 	

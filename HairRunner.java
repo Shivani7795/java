@@ -9,7 +9,7 @@ public class HairRunner{
 	System.out.println("the default colour of the hair is:" + hair.colour);
 
 	hair.length = "50 cm";
-    hair.thickness = "0.5 mm";
+    hair.thickness = 0.5;
     hair.texture = "curly";
     hair.colour = "black";
     System.out.println("the updated length of the hair is:" + hair.length);

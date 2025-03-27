@@ -1,8 +1,8 @@
 public class Crane{
-	String length;
+	double length;
 	String type;
 	String weight;
-	String price;
+	double price;
 
 
 	Crane(){
